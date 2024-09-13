@@ -20,7 +20,7 @@ The Rest_Med dataset includes EEG recordings from 10 participants, with recordin
 **Data Format**: 
     File Type: EDF (European Data Format)
     Columns: 8 EEG channels and 3 accelerometer channels
-    Sample Size: 10 participants with EEG data recorded for both rest and meditation states. Total data includes 10 full sessions (rest and meditation).
+    Sample Size: 10 participants with EEG data recorded for both rest and meditation states. Total data includes 20 full sessions (rest and meditation).
     EEG device sampling rate: 500 Samples/second
     Accelerometer sampling rate: 100 Samples/second
     
