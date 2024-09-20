@@ -23,7 +23,6 @@ The Rest_Med dataset includes EEG recordings from 10 participants, with recordin
     Sample Size: 10 participants with EEG data recorded for both rest and meditation states. Total data includes 20 full sessions (rest and meditation).
     EEG device sampling rate: 500 Samples/second
     Accelerometer sampling rate: 100 Samples/second
-    
     For detailed information on the data collection setup, refer to Appendix-1 of research paper.
 
 **Channels**
@@ -36,4 +35,8 @@ The dataset includes data from the following:
 
 **Acknowledgments**
 We thank the participants for their contribution and the Minro Lab IKS for their support in data collection and analysis.
+
+**Link to Dataset**
+
+https://drive.google.com/drive/folders/18HNQBSg58WoEE4I-HHc9bliqegaMYHqp?usp=sharing
 
